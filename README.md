@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, my name is Devesh 👋
+---  
+A front-end developer and UI designer.  
 
-<!--
-**DeveshMhatre/DeveshMhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me: 
 
-Here are some ideas to get you started:
+I'm Devesh Mhatre, a front-end developer from India. Eternally curious about how the web works and evolves everyday, I'm passionate about creating attractive and accessible web interfaces for humans as well as bots.
+- ❤️ I love writting code and reading about it
+- 📚 I’m currently learning ReactJS
+- 👯 I’m looking for opportunities to collaborate with people with much more experience than me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- #### Connect with me:  -->
+
+#### Languages and Frameworks:  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
