@@ -11,7 +11,9 @@ I'm Devesh Mhatre, a front-end developer from India. Eternally curious about how
 
 #### Connect with me:  
 [<img alt="Devesh Mhatre | Twitter" height="22px" src="Assets/twitter.svg"/>](https://twitter.com/i_am_devesh)
-[<img alt="Devesh Mhatre | LinkedIn" height="22px" src="Assets/linkedin.svg"/>](https://www.linkedin.com/in/devesh-mhatre-a74192135)  
+[<img alt="Devesh Mhatre | LinkedIn" height="22px" src="Assets/linkedin.svg"/>](https://www.linkedin.com/in/devesh-mhatre-a74192135)
+[<img alt="Devesh Mhatre | CodePen" height="22px" src="Assets/Button-Black-Large.png"/>](https://codepen.io/cryptomaniac/pens/public)
+[<img alt="Devesh Mhatre | FreeCodeCamp" height="22px" src="Assets/free-code-camp-logo.svg"/>](https://www.freecodecamp.org/deveshmhatre)  
 
 #### Languages and Frameworks:  
 
