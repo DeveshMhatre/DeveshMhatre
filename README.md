@@ -6,7 +6,7 @@ A front-end developer and UI designer.
 
 I'm Devesh Mhatre, a front-end developer from India. Eternally curious about how the web works and evolves everyday, I'm passionate about creating attractive and accessible web interfaces for humans as well as bots.
 - ❤️ I love writing code and reading books
-- 📚 I’m currently learning ReactJS (Context API, to be precise)
+- 📚 I’m currently learning Redux
 - 👯 I’m looking for opportunities to collaborate with other people  
 
 #### Connect with me:  
